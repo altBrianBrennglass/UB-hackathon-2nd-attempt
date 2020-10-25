@@ -1,0 +1,6 @@
+.searchTable tr th, .searchTable tr td{
+    padding: 10px;
+}
+.Search-Title{
+    font-family: sans-serif;
+}
